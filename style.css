@@ -84,6 +84,15 @@ body{
     height: 90%;
     font-size:1.5vw;
 }
+#visor2{
+    margin:0 auto;
+    padding-top: 2%;
+    text-align: center;
+    color: #6e0303;
+    width: 80%;
+    height: 90%;
+    font-size:1.5vw;
+}
 
 #btn-reset{
     width: 45%;
